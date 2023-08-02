@@ -1,0 +1,11 @@
+<div class="custom-container">
+                <h1 class="text-custom-header text-start">Contact Me</h1>
+                <hr>
+                <form>
+                    <div class="mb-3">
+                        <label for="exampleFormControlInput1" class="form-label m-0"><p class="text-custom-body">Email address</p></label>
+                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+                        <div id="emailHelp" class="custom-form-text">We'll never share your email with anyone else.</div>
+                        <button type="submit" class="btn btn-primary mt-2" style="background-color: #4D2D28; border-color:#321E1E;">Submit</button>
+                    </div>
+            </div>
